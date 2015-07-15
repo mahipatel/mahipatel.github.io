@@ -1,3 +1,3 @@
-## camporez.github.io
+## mahipatel.github.io
 
 Powered by [Thinny](http://github.com/camporez/Thinny).
